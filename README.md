@@ -1,2 +1,11 @@
 # dhin-still-learning-Github-
-Halo guys, jadi ini day 1 aku belajar github, semoga ak cepat mengerti dan tidak cepat puas atas apa yang kupelajari, ayo ikuti keseruanku belajar!!
+
+Repository ini dibuat untuk latihan perintah dasar Git:
+- git clone
+- git add
+- git commit
+- git push
+- git pull / fetch
+- git merge
+
+Setiap eksperimen akan didokumentasikan di file `notes.md`.
