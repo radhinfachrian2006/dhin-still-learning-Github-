@@ -8,4 +8,4 @@ Repository ini dibuat untuk latihan perintah dasar Git:
 - git pull / fetch
 - git merge
 
-Setiap eksperimen akan didokumentasikan di file `notes.md`.
+Setiap eksperimen akan didokumentasikan di file `final report.md`.
