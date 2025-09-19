@@ -12,7 +12,7 @@ Semua bukti dilengkapi dengan command dan screenshot hasil.
   git clone https://github.com/radhinfachrian2006/dhin-still-learning-Github-.git
 evidence : ![alt text](IMAGES/clone.png)
 
-## 2. Add & Commit
+## 2. Add-Commit
 evidence : ![alt text](IMAGES/add-commit.png)
 Result: File hello.txt berhasil ditambahkan ke repository lokal.
 
@@ -20,7 +20,7 @@ Result: File hello.txt berhasil ditambahkan ke repository lokal.
 evidence : ![alt text](IMAGES/push.png)
 Result: Perubahan berhasil dikirim ke repository GitHub.
 
-## 4. Pull
+## 4. Pull-Fetch
 evidence : ![alt text](IMAGES/pull-fetch.png)
 Result: Repository lokal sinkron dengan repository GitHub.
 
