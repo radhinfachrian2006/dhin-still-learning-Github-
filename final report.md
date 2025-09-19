@@ -21,7 +21,7 @@ evidence : ![alt text](IMAGES/push.png)
 Result: Perubahan berhasil dikirim ke repository GitHub.
 
 ## 4. Pull
-evidence : ![alt text](IMAGES/push.png)
+evidence : ![alt text](IMAGES/pull-fetch.png)
 Result: Repository lokal sinkron dengan repository GitHub.
 
 ## 5. Merge
